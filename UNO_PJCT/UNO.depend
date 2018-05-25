@@ -1,0 +1,323 @@
+# depslib dependency file v1.0
+1490236113 source:c:\users\omar_el\desktop\uno_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1490274902 source:c:\users\omar_el\desktop\uno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1491670538 source:c:\users\omar_el\desktop\uno_pjct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1491273245 source:c:\users\omar_el\desktop\uno_pjct\fonctions.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_fonctions.h"
+
+1490318549 c:\users\omar_el\desktop\uno_pjct\fonctions.h
+
+1490968401 c:\users\omar_el\desktop\uno_pjct\p_fonction.h
+
+1491064366 source:c:\users\omar_el\desktop\uno_pjct\fonction.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1491675548 c:\users\omar_el\desktop\uno_pjct\const_globls.h
+
+1491064366 source:c:\users\omar_el\desktop\uno_pjct\game_functions.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1491308374 c:\users\omar_el\desktop\uno_pjct\proto_fonctions.h
+
+1491670472 source:c:\users\omar_el\desktop\uno_pjct\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1491676119 source:c:\users\omar_el\desktop\uno_pjct\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1491438855 c:\users\omar_el\desktop\uno_pjct\proto_initialisation.h
+
+1491573221 c:\users\omar_el\desktop\uno_pjct\proto_jouer.h
+
+1491670474 source:m:\backup_uno\uno_pjct\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1491675550 m:\backup_uno\uno_pjct\const_globls.h
+
+1491438856 m:\backup_uno\uno_pjct\proto_initialisation.h
+
+1491676120 source:m:\backup_uno\uno_pjct\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1491573222 m:\backup_uno\uno_pjct\proto_jouer.h
+
+1491670540 source:m:\backup_uno\uno_pjct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1491847000 source:c:\users\omarr\desktop\backup_uno\uno_pjct\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1491847000 c:\users\omarr\desktop\backup_uno\uno_pjct\const_globls.h
+
+1491438856 c:\users\omarr\desktop\backup_uno\uno_pjct\proto_initialisation.h
+
+1491847000 source:c:\users\omarr\desktop\backup_uno\uno_pjct\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1491573222 c:\users\omarr\desktop\backup_uno\uno_pjct\proto_jouer.h
+
+1491844899 source:c:\users\omarr\desktop\backup_uno\uno_pjct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1491847000 source:g:\backup_uno\uno_pjct\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1491847359 g:\backup_uno\uno_pjct\const_globls.h
+
+1491438856 g:\backup_uno\uno_pjct\proto_initialisation.h
+
+1491847000 source:g:\backup_uno\uno_pjct\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1491573222 g:\backup_uno\uno_pjct\proto_jouer.h
+
+1491844899 source:g:\backup_uno\uno_pjct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1491847000 source:g:\backup_uno\uno_pjctt\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1491847359 g:\backup_uno\uno_pjctt\const_globls.h
+
+1491438856 g:\backup_uno\uno_pjctt\proto_initialisation.h
+
+1491847000 source:g:\backup_uno\uno_pjctt\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1491573222 g:\backup_uno\uno_pjctt\proto_jouer.h
+
+1491844899 source:g:\backup_uno\uno_pjctt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1493738123 source:c:\users\omar_el\desktop\c_poject\uno_pjct\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fmodex/fmod.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1493081137 c:\users\omar_el\desktop\c_poject\uno_pjct\const_globls.h
+
+1493056998 c:\users\omar_el\desktop\c_poject\uno_pjct\proto_initialisation.h
+
+1493738123 source:c:\users\omar_el\desktop\c_poject\uno_pjct\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fmodex/fmod.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1493034830 c:\users\omar_el\desktop\c_poject\uno_pjct\proto_jouer.h
+
+1493572468 source:c:\users\omar_el\desktop\c_poject\uno_pjct\main.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fmodex/fmod.h>
+	<stdlib.h>
+	<time.h>
+	"const_globls.h"
+
+1492372440 source:d:\backup_uno\uno_pjct\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1492301265 d:\backup_uno\uno_pjct\const_globls.h
+
+1492129480 d:\backup_uno\uno_pjct\proto_initialisation.h
+
+1492379800 source:d:\backup_uno\uno_pjct\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1492378533 d:\backup_uno\uno_pjct\proto_jouer.h
+
+1492136343 source:d:\backup_uno\uno_pjct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<time.h>
+	<SDL/SDL_image.h>
+	"const_globls.h"
+
+1493734523 source:c:\users\omare\desktop\c_poject\uno_pjct\initialisation_jeu.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fmodex/fmod.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+
+1493077537 c:\users\omare\desktop\c_poject\uno_pjct\const_globls.h
+
+1493053398 c:\users\omare\desktop\c_poject\uno_pjct\proto_initialisation.h
+
+1493734523 source:c:\users\omare\desktop\c_poject\uno_pjct\jouer.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fmodex/fmod.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"const_globls.h"
+	"proto_initialisation.h"
+	"proto_jouer.h"
+
+1493031230 c:\users\omare\desktop\c_poject\uno_pjct\proto_jouer.h
+
+1493568868 source:c:\users\omare\desktop\c_poject\uno_pjct\main.c
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<fmodex/fmod.h>
+	<stdlib.h>
+	<time.h>
+	"const_globls.h"
+
